@@ -1,0 +1,28 @@
+jconduah729:
+  name: "Josh's cabin"
+  description: "Charming yurt in Sakyo-ku"
+  city_name: "Kyoto, Japan"
+  city_slug: "kyoto"
+  wifi: true
+  rating: 4
+francishthometz:
+  name: "Francis' home"
+  description: "Charming room in Nishijin"
+  city_name: "Kyoto, Japan"
+  city_slug: "kyoto"
+  wifi: true
+  rating: 4
+rlwillem:
+  name: "Willem's barn"
+  description: Stable in Ghent
+  city_name: "Ghent, Belgium"
+  city_slug: "ghent"
+  wifi: false
+  rating: 3
+KwunMan:
+  name: "Luis' lookout"
+  description: Beachhouse in Hong Kong
+  city_name: "China, Hong Kong"
+  city_slug: "china"
+  wifi: True
+  rating: 4
