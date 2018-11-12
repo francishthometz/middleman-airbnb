@@ -1,13 +1,13 @@
 jconduah729:
-  name: "Josh's cabin"
-  description: "Charming yurt in Sakyo-ku"
+  name: "Josh's Jacal"
+  description: "Charming structure in Sakyo-ku"
   city_name: "Kyoto, Japan"
   city_slug: "kyoto"
   wifi: true
   rating: 4
 francishthometz:
-  name: "Francis' home"
-  description: "Charming room in Nishijin"
+  name: "Francis' Fun House"
+  description: "Nice room in Nishijin"
   city_name: "Kyoto, Japan"
   city_slug: "kyoto"
   wifi: true
@@ -20,9 +20,23 @@ rlwillem:
   wifi: false
   rating: 3
 KwunMan:
-  name: "Luis' lookout"
+  name: "Luis' Lookout"
   description: Beachhouse in Hong Kong
-  city_name: "China, Hong Kong"
-  city_slug: "china"
+  city_name: "Kowloon, Hong Kong"
+  city_slug: "kowloon"
   wifi: True
   rating: 4
+mkyoon713:
+  name: "Min's Mansion"
+  description: Mansion in Seoul
+  city_name: "Seoul, South Korea"
+  city_slug: "seoul"
+  wifi: True
+  rating: 5
+Sumt32:
+  name: "Sumita's Spring House"
+  description: Mansion in Hokkaido
+  city_name: "Hokkaido, Japan"
+  city_slug: "hokkaido"
+  wifi: True
+  rating: 5
